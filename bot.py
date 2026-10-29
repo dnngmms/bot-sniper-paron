@@ -2,8 +2,8 @@ import time, requests
 import yfinance as yf
 
 # --- GANTI 2 INI DOANG MET ---
-BOT_TOKEN = "ISI_TOKEN_DARI_BOTFATHER"
-MY_ID = "ISI_ID_DARI_USERINFOBOT"
+BOT_TOKEN = "9120932612:AAHViB-V8GLqSTue-PzVvY3pToEbPlrEvN0"
+MY_ID = "7886937074"
 # ------------------------------
 
 def kirim(msg):
